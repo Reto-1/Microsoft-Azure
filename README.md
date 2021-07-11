@@ -9,7 +9,9 @@
  <div align ="center">
   <h2>¿Qué es Azure?</h2>
  </div>
+ <font size=4>
  Es un conjunto de datos en la Nube.
+ <font>
  
 Nube: Incluye servidores, alamcenamiento, base de datos, software, analisis e inteligencia.
  
