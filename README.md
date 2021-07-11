@@ -36,4 +36,58 @@ Dentro de un ecosistema en particular, puede haber una forma común de instalar 
 Azure 
 Uso
 Use ejemplos generosamente y muestre el resultado esperado si puede. Es útil tener en línea el ejemplo más pequeño de uso que pueda demostrar, al tiempo que proporciona enlaces a ejemplos más sofisticados si son demasiado largos para incluirlos razonablemente en el archivo README.
+Contenido
+
+Módulo 1: 
+
+¿Qué es Azure?
+¿Qué es la nube?
+Ventajas de usar la nube
+
+Módulo 2: 
+	
+Modelos de la nube
+Servicio en la nube
+Ventajas de los servicios de la nube
+
+
+ 
+
+
+Modulo 3:
+
+Módulo 1: 
+
+¿Qué es Azure?
+¿Qué es la nube?
+Ventajas de usar la nube
+
+Links de Apoyo
+Links de Microsoft Az-900
+https://www.youtube.com/watch?v=jl_kZhDSxRg
+
+
+
+Links de Motivación 
+https://www.youtube.com/watch?v=r9zuryu_644
+https://www.youtube.com/watch?v=DVwXvooDSBQ
+
+
+Tips para aprobar el examen AZ-900 Fundamentos de Azure. 
+
+
+
+
+Apoyo
+Dígale a la gente adónde pueden acudir para obtener ayuda. Puede ser cualquier combinación de un rastreador de problemas, una sala de chat, una dirección de correo electrónico, etc.
+Mapa vial
+Se estará actualizando constantemente mientras se avanza en la certificación. 
+Contribuyendo
+Se aceptan contribuidores 
+Autores y reconocimiento
+@IzacMt03
+@Jacqueline-cis
+
+
+
 
