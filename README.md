@@ -1,9 +1,9 @@
 # Microsoft-Azure
  Azure AZ-900
  
- <div align="center">
+ <center>
  ![image](https://user-images.githubusercontent.com/87106718/125211437-f386ae00-e26b-11eb-882e-3692b78d65e8.png)
- </div>
+ </center> 
 
  
  <div align ="center">
