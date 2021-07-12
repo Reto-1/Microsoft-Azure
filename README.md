@@ -34,24 +34,24 @@ Uso
 Use ejemplos generosamente y muestre el resultado esperado si puede. Es útil tener en línea el ejemplo más pequeño de uso que pueda demostrar, al tiempo que proporciona enlaces a ejemplos más sofisticados si son demasiado largos para incluirlos razonablemente en el archivo README.
 	 
 ##  Contenido
-
-Módulo 1: 
+-  Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure.
 
 ¿Qué es Azure?
 ¿Qué es la nube?
 Ventajas de usar la nube
 
-Módulo 2: 
+-  Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure. 
 	
 Modelos de la nube
 Servicio en la nube
 Ventajas de los servicios de la nube
 
 
- 
+-  Aspectos básicos de Azure, parte 3: Descripción de las principales soluciones y herramientas de administración de Azure.
 
 
-Modulo 3:
+
+
 
 
 
