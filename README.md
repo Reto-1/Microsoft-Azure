@@ -17,16 +17,15 @@ Ventajas de Uso en la nube:
 ##  Acordeon Azure AZ-900 Innovaccion Virtual 🤓
 ##  Descripción
 Con la finalidad obtener un mejor entendimiento de los conceptos básicos que abarcan a la plataforma Azure, se crea este diccionario con conceptos sencillos, prácticos y entendibles.
-Hágale saber a la gente lo que su proyecto puede hacer específicamente. Proporcione contexto y agregue un enlace a cualquier referencia con la que los visitantes no estén familiarizados. También se puede agregar aquí una lista de características o una subsección de fondo . Si existen alternativas para su proyecto, este es un buen lugar para enumerar los factores diferenciadores.
-	 
+
 ## Diccionario basico.
 	 
-	-Cloud Computing: Conocida comúnmente cómo servicios en la nube o simplemente “la nube”. Es un conjunto de servicios de computación ofrecidos a través de una red, siendo internet la red más frecuente.
+-Cloud Computing: Conocida comúnmente cómo servicios en la nube o simplemente “la nube”. Es un conjunto de servicios de computación ofrecidos a través de una red, siendo internet la red más frecuente.
 Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
-	-Computación de Nube: Sistema de entrega de información y servicios virtuales a través del internet en el que la infraestructura y software son proveídos como un servicio por una empresa externa o por un departamento de tecnología en una organización.
-	-Elasticidad: Capacidad de un sistema de nube para adaptarse a los cambios de las cargas de trabajo de manera automática.
-	-Escalabilidad: Habilidad de expansión o contracción de las capacidades y tamaño de los servicios de nube dependiendo de las necesidades y demanda de los clientes.
-	- Nube: Incluye servidores, alamcenamiento, base de datos, software, analisis e inteligencia.
+-Computación de Nube: Sistema de entrega de información y servicios virtuales a través del internet en el que la infraestructura y software son proveídos como un servicio por una empresa externa o por un departamento de tecnología en una organización.
+-Elasticidad: Capacidad de un sistema de nube para adaptarse a los cambios de las cargas de trabajo de manera automática.
+-Escalabilidad: Habilidad de expansión o contracción de las capacidades y tamaño de los servicios de nube dependiendo de las necesidades y demanda de los clientes.
+- Nube: Incluye servidores, alamcenamiento, base de datos, software, analisis e inteligencia.
 
 ##  Instalación
 Dentro de un ecosistema en particular, puede haber una forma común de instalar cosas, s que deben instalarse manualmente, agregue también una subsección de Requisitos .
@@ -62,11 +61,11 @@ https://www.youtube.com/watch?v=jl_kZhDSxRg
 
 
 
+##  Tips para aprobar el examen AZ-900 Fundamentos de Azure. 🏁
 Links de Motivación 
 https://www.youtube.com/watch?v=r9zuryu_644
 https://www.youtube.com/watch?v=DVwXvooDSBQ
 http://blog.alestra.com.mx/evolucion-y-alcances-lo-que-no-sabias-de-tecnologia-en-la-nube 
-##  Tips para aprobar el examen AZ-900 Fundamentos de Azure. 🏁
 
 
 
@@ -90,11 +89,6 @@ Se aceptan contribuidores
 [TOC]
 
 
-###Images
-
-Image:
-
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 
 
