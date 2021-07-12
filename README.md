@@ -181,8 +181,10 @@ http://blog.alestra.com.mx/evolucion-y-alcances-lo-que-no-sabias-de-tecnologia-e
 
 # Mapa vial
 Se estará actualizando constantemente mientras se avanza en la certificación. 
-Contribuyendo
-Se aceptan contribuidores 
+
+# Contribuyendo
+Se aceptan contribuidores.
+
 # Autores y reconocimiento 
 @IzacMt03 🎈 <br>
 @Jacqueline-cis ❤️
