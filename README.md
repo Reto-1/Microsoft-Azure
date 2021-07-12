@@ -156,7 +156,7 @@ Los grupos de recursos existen para ayudar a administrar y organizar los recurso
 
 <div align="center">
 
- ![image](https://user-images.githubusercontent.com/87106718/125216824-efb35580-e284-11eb-9f1b-60791c33cb0c.png)
+ ![image](https://user-images.githubusercontent.com/87106718/125217052-5e90ae80-e285-11eb-9dcd-08be2c2c6a1d.png)
 	
 </div>
 
