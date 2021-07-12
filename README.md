@@ -23,11 +23,6 @@ Hágale saber a la gente lo que su proyecto puede hacer específicamente. Propor
 -Escalabilidad: Habilidad de expansión o contracción de las capacidades y tamaño de los servicios de nube dependiendo de las necesidades y demanda de los clientes.
 - Nube: Incluye servidores, alamcenamiento, base de datos, software, analisis e inteligencia.
 
-##  Instalación
-Dentro de un ecosistema en particular, puede haber una forma común de instalar cosas, s que deben instalarse manualmente, agregue también una subsección de Requisitos .
-Azure 
-Uso
-Use ejemplos generosamente y muestre el resultado esperado si puede. Es útil tener en línea el ejemplo más pequeño de uso que pueda demostrar, al tiempo que proporciona enlaces a ejemplos más sofisticados si son demasiado largos para incluirlos razonablemente en el archivo README.
 	 
 ##  Contenido
 
