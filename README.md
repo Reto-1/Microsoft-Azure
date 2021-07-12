@@ -187,31 +187,6 @@ Se aceptan contribuidores
 @IzacMt03 🎈 <br>
 @Jacqueline-cis ❤️
 
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-
-
-
-
-
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-
-
-
-
-
-
-
-
-
-
-
 ###	Evaluacion de Ruta de aprendizaje Azure- Aspectos Básicos
 
 
