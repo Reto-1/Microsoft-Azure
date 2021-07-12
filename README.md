@@ -146,8 +146,19 @@ Proporcionando acceso a peticiones para:
 <br>
 Los grupos de administración de Azure ofrecen un nivel de ámbito que está por encima de las suscripciones. Las suscripciones se organizan en contenedores llamados grupos de administración y las condiciones de gobernanza se aplican a los grupos de administración.
 <br>
+
 ##  Recursos
-<br>Los grupos de recursos existen para ayudar a administrar y organizar los recursos de Azure. Al colocar recursos de uso, tipo o ubicación similar en un grupo de recursos, puede proporcionar orden y organización a los recursos que cree en Azure.Un recurso de Azure es un elemento administrable que está disponible mediante Azure. Algunos ejemplos de recursos son las máquinas virtuales (VM), las cuentas de almacenamiento, las aplicaciones web, las bases de datos y las redes virtuales.
+
+<br>
+Los grupos de recursos existen para ayudar a administrar y organizar los recursos de Azure. Al colocar recursos de uso, tipo o ubicación similar en un grupo de recursos, puede proporcionar orden y organización a los recursos que cree en Azure.Un recurso de Azure es un elemento administrable que está disponible mediante Azure. Algunos ejemplos de recursos son las máquinas virtuales (VM), las cuentas de almacenamiento, las aplicaciones web, las bases de datos y las redes virtuales.
+
+<br>
+
+<div align="center">
+
+ ![image](https://user-images.githubusercontent.com/87106718/125216824-efb35580-e284-11eb-9f1b-60791c33cb0c.png)
+	
+</div>
 
 
 <br>
