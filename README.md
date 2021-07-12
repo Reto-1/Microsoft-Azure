@@ -23,7 +23,6 @@ Hágale saber a la gente lo que su proyecto puede hacer específicamente. Propor
 -Escalabilidad: Habilidad de expansión o contracción de las capacidades y tamaño de los servicios de nube dependiendo de las necesidades y demanda de los clientes.
 - Nube: Incluye servidores, alamcenamiento, base de datos, software, analisis e inteligencia.
 
-
 ##  Instalación
 Dentro de un ecosistema en particular, puede haber una forma común de instalar cosas, s que deben instalarse manualmente, agregue también una subsección de Requisitos .
 Azure 
@@ -42,7 +41,7 @@ Módulo 2:
 	
 - Modelos de la nube
 - Servicio en la nube
-- Ventajas de los servicios de la nube
+- Gastos de capital
 
 
 Modulo 3:
@@ -93,20 +92,50 @@ Proporcionando acceso a peticiones para:
 - Agilidad: Los recursos basados en la nube se pueden implementar y configurar para que siempre tengan los recursos que necesitan a medida que cambian los recursos de la aplicación
 - Distribución geografica: Las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundolo que garantiza que los clientes siempre tendran el mejor rendimiento de su región
 - Recuperacion ante desastres: Al usar la copia de seguridad de la nube, la replicación y distribución geografica, sabra que los datos estan protegidos ante cualquier desastre
-<br><br>
+
+
 <hr>
 
 <div align="center">
-	<h2>Modulo 2 </h2>
+	<h2>Modulo 2</h2>
 </div>
 
-##  ¿Qué es el Modelo de la nube?
-<br>
--[] Infraestructura como servicio (IaaS) - Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube.
--[] Plataforma como serivico (Sass) - El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado (Azure App Services).
--[] Software como servicio (SaaS) - el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones (Office 365).
+## Modelos de la nube
+
 <br>
 
+<table>
+	<tr>
+		<td>Nube pública</td>
+		<td>Nube privada</td>
+		<td>Nube híbrida</td>	
+	</tr>
+	<tr>
+		<td>Se da traves de internet publica y estan disponibles para cualquier usuario, sus servicios son propiedad del proveedor</td>
+		<td>Son de uso exclusivo de una empresa. Puede estar ubicada fisicamente en la empresa</td>
+		<td>Combina ambas, permitiendo compartir datos</td>	
+	</tr>	
+</table>
+
+## Servicios de la nube
+
+<table>
+	<tr>
+		<td>IaaS</td>
+		<td>PaaS</td>
+		<td>Saas</td>	
+	</tr>
+	<tr>
+		<td>La nube se encarga del hardware, la configuración y mantenimiento son responsabilidad dek inquilino</td>
+		<td>La nube administra las maquinas virtuales y recursos de la res, el inquilino administra las aplicaciones</td>
+		<td>La nube administra todos los aspectos del entorno. EL inquilino debe proporcionar sus datos unicamente.</td>	
+	</tr>	
+</table>
+
+## Gastos de capital
+
+- Gastos de capital **(CapEx)**: Es la inversión previa de dinero en infrastructura física.
+- Gastos Operativos **(OpEx)**: Es el dinero que se invierte en servicios o productos y se factura al instante
 
 # Links de Apoyo
 Links de Microsoft Az-900
@@ -114,18 +143,18 @@ https://www.youtube.com/watch?v=jl_kZhDSxRg
 
 
 
-
-##  Tips para aprobar el examen AZ-900 Fundamentos de Azure. 🏁
-
 Links de Motivación 
 https://www.youtube.com/watch?v=r9zuryu_644
 https://www.youtube.com/watch?v=DVwXvooDSBQ
 http://blog.alestra.com.mx/evolucion-y-alcances-lo-que-no-sabias-de-tecnologia-en-la-nube 
+##  Tips para aprobar el examen AZ-900 Fundamentos de Azure. 🏁
 
 
-# Apoyo 📢
+
+
+# Apoyo 
 Dígale a la gente adónde pueden acudir para obtener ayuda. Puede ser cualquier combinación de un rastreador de problemas, una sala de chat, una dirección de correo electrónico, etc.
-# Mapa vial 📃
+# Mapa vial
 Se estará actualizando constantemente mientras se avanza en la certificación. 
 Contribuyendo
 Se aceptan contribuidores 
