@@ -1,8 +1,11 @@
 # Microsoft-Azure 
 ## Azure AZ-900 Azure AZ-900
- 
+
+<div align="center">
 
  ![image](https://user-images.githubusercontent.com/87106718/125211437-f386ae00-e26b-11eb-882e-3692b78d65e8.png)
+
+</div>
 
   
   
@@ -84,6 +87,7 @@ Proporcionando acceso a peticiones para:
 	<li>Horizontalmente: La capacidad informatica se puede aumentar si se agregan instancias de un recurso como maquinas virtuales adicionales.</li>
 </ol>
 </p>
+
 - Elasticidad: Las aplicaciones se pueden configurar para que siempre tengan los recursos que necesitan
 - Agilidad: Los recursos basados en la nube se pueden implementar y configurar para que siempre tengan los recursos que necesitan a medida que cambian los recursos de la aplicación
 - Distribución geografica: Las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundolo que garantiza que los clientes siempre tendran el mejor rendimiento de su región
