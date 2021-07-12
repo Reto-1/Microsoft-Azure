@@ -93,6 +93,11 @@ Proporcionando acceso a peticiones para:
 - Distribución geografica: Las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundolo que garantiza que los clientes siempre tendran el mejor rendimiento de su región
 - Recuperacion ante desastres: Al usar la copia de seguridad de la nube, la replicación y distribución geografica, sabra que los datos estan protegidos ante cualquier desastre
 
+## Modelos de servicio
+-[] Infraestructura como servicio (IaaS) - Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es responsabilidad del inquilino de nube.
+-[] Plataforma como serivico (Sass) - El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado (Azure App Services).
+-[] Software como servicio (SaaS) - el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones (Office 365).
+
 
 # Links de Apoyo
 Links de Microsoft Az-900
