@@ -13,12 +13,18 @@ Hágale saber a la gente lo que su proyecto puede hacer específicamente. Propor
 	 
 ## Diccionario basico.
 	 
--- Cloud Computing: Conocida comúnmente cómo servicios en la nube o simplemente “la nube”. Es un conjunto de servicios de computación ofrecidos a través de una red, siendo internet la red más frecuente.
--- Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
--- Computación de Nube: Sistema de entrega de información y servicios virtuales a través del internet en el que la infraestructura y software son proveídos como un servicio por una empresa externa o por un departamento de tecnología en una organización.
--- Elasticidad: Capacidad de un sistema de nube para adaptarse a los cambios de las cargas de trabajo de manera automática.
---Escalabilidad: Habilidad de expansión o contracción de las capacidades y tamaño de los servicios de nube dependiendo de las necesidades y demanda de los clientes.
--- Nube: Incluye servidores, alamcenamiento, base de datos, software, analisis e inteligencia.
+- Cloud Computing: Conocida comúnmente cómo servicios en la nube o simplemente “la nube”. Es un conjunto de servicios de computación ofrecidos a través de una red, siendo internet la red más frecuente.
+- Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
+- Computación de Nube: Sistema de entrega de información y servicios virtuales a través del internet en el que la infraestructura y software son proveídos como un servicio por una empresa externa o por un departamento de tecnología en una organización.
+- Elasticidad: Capacidad de un sistema de nube para adaptarse a los cambios de las cargas de trabajo de manera automática.
+-Escalabilidad: Habilidad de expansión o contracción de las capacidades y tamaño de los servicios de nube dependiendo de las necesidades y demanda de los clientes.
+- Nube: Incluye servidores, alamcenamiento, base de datos, software, analisis e inteligencia.
+
+##  Instalación
+Dentro de un ecosistema en particular, puede haber una forma común de instalar cosas, s que deben instalarse manualmente, agregue también una subsección de Requisitos .
+Azure 
+Uso
+Use ejemplos generosamente y muestre el resultado esperado si puede. Es útil tener en línea el ejemplo más pequeño de uso que pueda demostrar, al tiempo que proporciona enlaces a ejemplos más sofisticados si son demasiado largos para incluirlos razonablemente en el archivo README.
 	 
 ##  Contenido
 
@@ -72,11 +78,16 @@ Proporcionando acceso a peticiones para:
 
 - Confiabilidad: en funcion del contrato de nivel que se elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua
 - Escalabilidad: Funciona de dos maneras 
-
+<p>
 <ol>
 	<li>Verticalmente: La capacidad informatica se puede aumentar si se agrega memoria RAM o CPU a las maquinas virtuales.</li>
 	<li>Horizontalmente: La capacidad informatica se puede aumentar si se agregan instancias de un recurso como maquinas virtuales adicionales.</li>
 </ol>
+</p>
+- Elasticidad: Las aplicaciones se pueden configurar para que siempre tengan los recursos que necesitan
+- Agilidad: Los recursos basados en la nube se pueden implementar y configurar para que siempre tengan los recursos que necesitan a medida que cambian los recursos de la aplicación
+- Distribución geografica: Las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundolo que garantiza que los clientes siempre tendran el mejor rendimiento de su región
+- Recuperacion ante desastres: Al usar la copia de seguridad de la nube, la replicación y distribución geografica, sabra que los datos estan protegidos ante cualquier desastre
 
 
 # Links de Apoyo
@@ -138,4 +149,5 @@ Image:
 - [ ] Aspectos básicos de Azure, parte 4: Descripción de las características de seguridad general y de seguridad de red.
 - [ ] Aspectos básicos de Azure, parte 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento.
 - [ ] Aspectos básicos de Azure, parte 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure.
+
 
