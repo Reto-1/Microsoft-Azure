@@ -14,7 +14,7 @@
 Con la finalidad obtener un mejor entendimiento de los conceptos básicos que abarcan a la plataforma Azure, se crea este diccionario con conceptos sencillos, prácticos y entendibles.
 Hágale saber a la gente lo que su proyecto puede hacer específicamente. Proporcione contexto y agregue un enlace a cualquier referencia con la que los visitantes no estén familiarizados. También se puede agregar aquí una lista de características o una subsección de fondo . Si existen alternativas para su proyecto, este es un buen lugar para enumerar los factores diferenciadores.
 	 
-## Diccionario basico.
+## Diccionario basico. 🤙
 	 
 - Cloud Computing: Conocida comúnmente cómo servicios en la nube o simplemente “la nube”. Es un conjunto de servicios de computación ofrecidos a través de una red, siendo internet la red más frecuente.
 - Aplicación de nube: Una aplicación o herramienta que corre exclusivamente dentro de un servicio de nube.
@@ -137,23 +137,42 @@ Proporcionando acceso a peticiones para:
 - Gastos de capital **(CapEx)**: Es la inversión previa de dinero en infrastructura física.
 - Gastos Operativos **(OpEx)**: Es el dinero que se invierte en servicios o productos y se factura al instante
 
+
+
+
+<br><br>
+<hr>
+
+<div align="center">
+	<h2>Modulo 3</h2>
+</div>
+
+##  Grupos de administracion.
+<br>
+Los grupos de administración de Azure ofrecen un nivel de ámbito que está por encima de las suscripciones. Las suscripciones se organizan en contenedores llamados grupos de administración y las condiciones de gobernanza se aplican a los grupos de administración.
+<br>
+##  Recursos
+<br>Los grupos de recursos existen para ayudar a administrar y organizar los recursos de Azure. Al colocar recursos de uso, tipo o ubicación similar en un grupo de recursos, puede proporcionar orden y organización a los recursos que cree en Azure.Un recurso de Azure es un elemento administrable que está disponible mediante Azure. Algunos ejemplos de recursos son las máquinas virtuales (VM), las cuentas de almacenamiento, las aplicaciones web, las bases de datos y las redes virtuales.
+
+
+<br>
+
+
 # Links de Apoyo
 Links de Microsoft Az-900
 https://www.youtube.com/watch?v=jl_kZhDSxRg
 
 
 
+##  Tips para aprobar el examen AZ-900 Fundamentos de Azure. 🏁
 Links de Motivación 
 https://www.youtube.com/watch?v=r9zuryu_644
 https://www.youtube.com/watch?v=DVwXvooDSBQ
 http://blog.alestra.com.mx/evolucion-y-alcances-lo-que-no-sabias-de-tecnologia-en-la-nube 
-##  Tips para aprobar el examen AZ-900 Fundamentos de Azure. 🏁
 
 
 
 
-# Apoyo 
-Dígale a la gente adónde pueden acudir para obtener ayuda. Puede ser cualquier combinación de un rastreador de problemas, una sala de chat, una dirección de correo electrónico, etc.
 # Mapa vial
 Se estará actualizando constantemente mientras se avanza en la certificación. 
 Contribuyendo
@@ -171,9 +190,9 @@ Se aceptan contribuidores
 [TOC]
 
 
-###Images
 
-Image:
+
+
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
